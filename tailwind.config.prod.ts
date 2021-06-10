@@ -1,4 +1,4 @@
-const tailwind = require("./tailwind.config");
+const tailwind = require("./tailwind.config.ts");
 
 module.exports = {
   ...tailwind,
