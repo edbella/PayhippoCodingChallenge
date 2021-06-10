@@ -1,0 +1,46 @@
+* {
+	scroll-behavior: smooth;
+	&:focus {
+		outline-color: #43063c !important;
+	}
+}
+
+body {
+	margin: 0;
+	font-family: "Proxima Nova", sans-serif !important;
+	font-weight: 500;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-display: swap;
+	font-size: 1rem;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+button:focus {
+	outline: none !important;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+	-webkit-transition: "color 9999s ease-out, background-color 9999s ease-out";
+	transition: "color 9999s ease-out, background-color 9999s ease-out";
+	-webkit-transition-delay: 9999s;
+	transition-delay: 9999s;
+}
+
+.custom-blob {
+	background-color: #ffffff;
+  background-image: url("./assets/svgs/bg.svg");
+  background-size: cover;
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+	@media screen and (max-width: 1024px) {
+		background-image: url("./assets/svgs/animated-blob-small.svg");
+	}
+}

@@ -1,0 +1,32 @@
+<svg width="414" height="896" viewBox="0 0 414 896" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="414" height="896" fill="white"/>
+<rect y="2" width="414" height="900" fill="white"/>
+<rect y="2" width="414" height="900" fill="white" fill-opacity="0.99"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M106.511 779.462C146.404 791.758 167.155 829.956 202.314 852.446C258.738 888.537 351.341 883.947 370.25 948.161C389.469 1013.43 330.971 1076.21 282.179 1123.67C234.14 1170.39 172.872 1214.23 106.511 1204.68C44.2237 1195.72 8.75444 1132.59 -24.9343 1079.49C-49.9993 1039.98 -48.8516 994.357 -56.2208 948.161C-66.1596 885.857 -118.597 812.467 -74.7762 767.04C-31.0808 721.742 46.3419 760.916 106.511 779.462Z" fill="url(#paint0_linear)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M237.07 -231.474C283.505 -268.961 350.093 -261.801 406.566 -285.072C497.193 -322.418 560.772 -437.213 660.687 -406.037C762.239 -374.35 801.981 -251.633 828.576 -153.393C854.761 -56.6684 867.132 53.482 804.443 124.985C745.602 192.099 634.67 181.673 538.455 177.518C466.868 174.426 406.862 134.809 339.677 104.913C249.063 64.5911 111.668 65.8933 84.0379 -24.6895C56.487 -115.013 167.035 -174.933 237.07 -231.474Z" fill="url(#paint1_linear)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="55.1375" y1="803.258" x2="350.368" y2="1091.85" gradientUnits="userSpaceOnUse">
+<stop offset="0%" stop-color="#61D2FF">
+                <animate attributeName="stop-color" values="#61D2FF; #4285F4; #61D2FF" dur="4s" repeatCount="indefinite"></animate>
+            </stop>
+
+            <stop offset="100%" stop-color="#4285F4">
+                <animate attributeName="stop-color" values="#4285F4; #61D2FF; #4285F4" dur="4s" repeatCount="indefinite"></animate>
+            </stop>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="230.152" y1="-149.976" x2="818.54" y2="-325.231" gradientUnits="userSpaceOnUse">
+<stop offset="0%" stop-color="#61D2FF">
+                <animate attributeName="stop-color" values="#61D2FF; #4285F4; #61D2FF" dur="4s" repeatCount="indefinite"></animate>
+            </stop>
+
+            <stop offset="100%" stop-color="#4285F4">
+                <animate attributeName="stop-color" values="#4285F4; #61D2FF; #4285F4" dur="4s" repeatCount="indefinite"></animate>
+            </stop>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="414" height="896" fill="white"/>
+</clipPath>
+</defs>
+</svg>
